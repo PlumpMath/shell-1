@@ -27,4 +27,4 @@ Play the beep sound.
 
 ## Contributing
 
-Any suggestions accepted! Submit issues, PRs, send an email or get in touch on twitter at @luke_dot_js or on the elmlang Slack at @luke. I'll be working on event more electron interop coming up so if you have ideas for that process as a whole feel free to get in touch with those as well. Thanks!
+Any suggestions accepted! Submit issues, PRs, send an email or get in touch on twitter at @luke_dot_js or on the elmlang Slack at @luke. I'll be working on even more electron interop coming up so if you have ideas for that process as a whole feel free to get in touch with those as well. Thanks!
